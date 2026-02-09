@@ -40,30 +40,46 @@ For the **Canadian General Social Survey on Giving, Volunteering, and Participat
 
 ## Part A - Survey Design: 
 
-The number of your chosen topic: `#`
-
-Describe the purpose of your survey:
+The number of your chosen topic: `#3`
 ```
-write your answer here...
+Describe the purpose of your survey:
+This survey studies the relationship between age and music taste.
+The goal is to understand how people of different ages feel about popular music and how their preferences may change over time.
+
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+Target population: People of different ages living in Canada who listen to music.
+Sampling frame: A list of university students, alumni, and community members reachable through online surveys.
+Sampling units: Individual people selected from the sampling frame.
+Observational units: Each survey respondent.
+Sampling strategy: A stratified sampling approach by age group (for example: 18-24, 25–34, 35–44, 45+) to ensure different age groups are represented and comparisons across ages are possible.
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1. What is your age?
+[]Under 18 [] 18–24 [] 25–34 [] 35–44 [] 45–54 [] 55+
+
+2. How often do you listen to music?
+[] Daily [] A few times a week [] Rarely
+
+3. What music genres do you listen to most often? (Select all that apply)
+[] Pop [] Rock [] Hip-hop/Rap [] Electronic [] Classical [] Other
+
+4. How much do you enjoy current popular music?
+Scale from 1 (Not at all) to 5 (Very much)
+
+5. Do you mostly prefer music from your teenage years?
+[] Yes [] No [] Not sure
+
+6. Compared to when you were younger, how has your music taste changed?
+[] A lot [] A little [] Not at all
+
+7. How do you usually discover new music?
+[] Social media [] Streaming platforms [] Friends [] Radio [] Other
+
 ```
 
 ## Part B - Survey Evaluation:
@@ -71,7 +87,20 @@ Your 5-10 question survey:
 Identify and describe survey features:
 
 ```
-write your answer here
+1. Sample type: The GSS uses a probability-based sampling method, meaning participants are randomly selected so the results can represent the Canadian population.
+2. Sample size: The survey includes a large national sample, with thousands of respondents across Canada to support reliable analysis.
+3. Target population: The target population is Canadians aged 15 and older living in private households.
+4. Sampling frame: The sampling frame is made up of Canadians living in private households, so people in places like prisons or long-term care facilities are not included.
+5. Survey mode(s): The survey was conducted using telephone interviews and online questionnaires, depending on what was most accessible for respondents.
+6. Timeline: Data was collected over the course of 2018, rather than in a short time window.
+7. Response rate: The response rate was moderate, which is common for large national surveys and creates the need for adjustments to reduce bias.
+8. Weights: Survey weights were applied to account for nonresponse and differences in selection probability, helping the results better reflect the population.
+9. Data processing: Responses were reviewed, coded, and checked by Statistics Canada to reduce data entry and processing errors.
+10. Cleaning, imputation, etc: Imputation methods were used to handle missing responses. This helps reduce bias, but it does not completely remove uncertainty from the data.
+11. Sources of error: Possible sources of error include sampling error, nonresponse error, and measurement error, which are typical in survey research.
+12. Limitations, known biases, etc: Some groups are excluded from the sampling frame, and responses may be influenced by social desirability bias.
+Although weighting improves estimates, it cannot eliminate all bias.
+13. Link to documentation and any additional sources used
 ```
 
 ## Rubric
