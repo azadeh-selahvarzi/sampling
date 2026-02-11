@@ -87,11 +87,11 @@ Scale from 1 (Not at all) to 5 (Very much)
 Identify and describe survey features:
 
 ```
-1. Sample type: The GSS uses a probability-based sampling method, meaning participants are randomly selected so the results can represent the Canadian population.
-2. Sample size: The survey includes a large national sample, with thousands of respondents across Canada to support reliable analysis.
-3. Target population: The target population is Canadians aged 15 and older living in private households.
-4. Sampling frame: The sampling frame is made up of Canadians living in private households, so people in places like prisons or long-term care facilities are not included.
-5. Survey mode(s): The survey was conducted using telephone interviews and online questionnaires, depending on what was most accessible for respondents.
+1. Sample type: The General Social Survey (GSS) is a cross-sectional survey using a probability-based, stratified sampling design.
+2. Sample size: A field sample of approximately 43,000 units was selected. About 35,000 households were invited to participate, with an expected completion of approximately 20,000 questionnaires.
+3. Target population: The target population consists of persons aged 15 and older living in private households in the ten Canadian provinces. Individuals living in institutions such as prisons or long-term care facilities are excluded.
+4. Sampling frame: The sampling frame combines landline and cellular telephone numbers from Census and administrative sources with Statistics Canada’s dwelling frame. Records consist of groups of telephone numbers associated with the same address, or a single telephone number when an address cannot be linked. This frame improves coverage of households with telephone access.
+5. Survey mode(s): Data were collected using a self-administered electronic questionnaire, with telephone follow-up used when necessary.
 6. Timeline: Data was collected over the course of 2018, rather than in a short time window.
 7. Response rate: The response rate was moderate, which is common for large national surveys and creates the need for adjustments to reduce bias.
 8. Weights: Survey weights were applied to account for nonresponse and differences in selection probability, helping the results better reflect the population.
